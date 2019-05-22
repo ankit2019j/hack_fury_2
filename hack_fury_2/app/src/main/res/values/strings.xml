@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">hack_fury_2</string>
+    <string name="title_activity_quick_sos">quickSos</string>
+    <string name="title_activity_descp">descp</string>
+</resources>
